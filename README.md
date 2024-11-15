@@ -1,1 +1,1 @@
-# InternIntelligence_Security-Policy
+# InternIntelligence_Projects
